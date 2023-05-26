@@ -14,3 +14,6 @@ const init = async () => {
 };
  
 init();
+
+// wget -O - -q https://checkip.amazonaws.com
+// cek ip
