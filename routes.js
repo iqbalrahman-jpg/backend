@@ -10,7 +10,7 @@ const routes = [
         method: 'GET',
         path: '/',
         handler: (request, h) => {
-            return 'Homepage v 1.12';
+            return 'Homepage v 1.1.1';
         },
     },
 ];
